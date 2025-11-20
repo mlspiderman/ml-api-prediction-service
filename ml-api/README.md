@@ -102,7 +102,7 @@ Content-Type: application/json
 
 ## 📸 Screenshot
 
-![Swagger Screenshot](assets/screenshot-docs.png)
+<img width="1045" height="942" alt="obraz" src="https://github.com/user-attachments/assets/2cf333e4-7cee-4838-9cda-1beb22621baf" />
 
 ---
 
